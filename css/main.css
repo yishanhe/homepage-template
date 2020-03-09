@@ -1,0 +1,31 @@
+a {
+    color: #27AE60;
+}
+
+a:hover,
+a:focus,
+a:active {
+    background: none !important;
+    border-color: transparent !important;
+    box-shadow: none !important;
+  }
+
+a:focus,
+a:active {
+    color: #27AE60;
+}
+
+a:hover {
+    color: #777;
+}
+
+div .intro {
+    margin-top: 50px;
+}
+
+div .social {
+    margin-top: 25px;
+    margin-bottom: 25px
+}
+
+
